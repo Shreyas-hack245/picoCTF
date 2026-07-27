@@ -1,0 +1,17 @@
+Rust fixme 1:
+
+Have you heard of Rust? Fix the syntax errors in this Rust file to print the flag!
+
+Download the Rust code here
+
+Hints
+1
+Cargo is Rust's package manager and will make your life easier. See the getting started page here
+
+2
+println!
+
+3
+Rust has some pretty great compiler error messages. Read them maybe?
+
+FLAG: picoCTF{4r3_y0u_4_ru$t4c30n_n0w?}
