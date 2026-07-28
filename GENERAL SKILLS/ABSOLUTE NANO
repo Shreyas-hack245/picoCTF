@@ -1,0 +1,13 @@
+ABSOLUTE NANO:
+
+You have complete power with nano.
+
+Think you can get the flag?
+
+ssh -p 60923 ctf-player@crystal-peak.picoctf.net using password 9c805ca4
+
+Hints
+1
+What can you do with nano?
+
+FLAG: picoCTF{n4n0_411_7h3_w4y_d74f446b}
