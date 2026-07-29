@@ -1,0 +1,24 @@
+Smart_Overflow:
+
+Welcome!
+
+The contract tracks balances using uint256 math. It should be impossible to get the flag... Contract: here
+
+The eth chain is at:
+
+Eth node address: mysterious-sea.picoctf.net:61745 More details can be found at here
+.
+
+NOTE: this server can take up to 5 minutes to start up. Please be patient.
+
+Hints
+1
+What happens when balances[msg.sender] becomes smaller after a deposit?
+
+2
+Look at the flag reveal condition carefully.
+
+3
+Why do attackers like integers?
+
+FLAG: picoCTF{Sm4r7_OverFL0ws_ExI5t_48f817eb}
