@@ -1,0 +1,16 @@
+Access_Control:
+
+We've created a simple contract to store a secret flag. But you currently are not the owner of the contract... Only the 
+owner of the contract should be able to access it. We're sure we've made it secure this time. Contract: here
+The eth chain is at:
+
+Eth node address: lonely-island.picoctf.net:57130 More details can be found at here
+.
+
+NOTE: this server can take up to 5 minutes to start up. Please be patient.
+
+Hints
+1
+Wait, maybe you can be the owner?
+
+FLAG: picoCTF{i_c4n_b3_0wn3r_cd999ae1}
