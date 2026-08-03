@@ -1,0 +1,12 @@
+UnforgottenBits:
+
+Download this disk image and find the flag.
+
+Note: if you are using the webshell, download and extract the disk image into /tmp not your home directory.
+
+Download compressed disk image
+Hints
+1
+There are no hints here, but there are plenty on the disk!
+
+FLAG: picoCTF{f473_53413d_40405b89}
