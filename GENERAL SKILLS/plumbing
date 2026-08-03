@@ -1,0 +1,16 @@
+plumbing:
+
+Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag?
+
+Connect to fickle-tempest.picoctf.net 60353.
+
+Instance
+Expires in 29:36
+Hints
+1
+Remember the flag format is picoCTF{XXXX}
+
+2
+What's a pipe? No not that kind of pipe... This kind
+
+FLAG: picoCTF{digital_plumb3r_8c8f3412}
