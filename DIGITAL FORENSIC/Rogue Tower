@@ -1,0 +1,20 @@
+Rogue Tower:
+
+A suspicious cell tower has been detected in the network. Analyze the captured network traffic to identify the rogue tower, find the compromised device, and recover the exfiltrated flag.
+
+Download the network capture file: here
+
+Hints
+1
+Look for unauthorized test network broadcasts on UDP port 55000
+
+2
+Find the device that connected to the rogue tower by checking HTTP User-Agent headers
+
+3
+The encryption key is derived from the victim device's IMSI
+
+4
+The exfiltrated data is split across multiple HTTP POST requests
+
+FLAG: picoCTF{r0gu3_c3ll_t0w3r_dbc40831}
