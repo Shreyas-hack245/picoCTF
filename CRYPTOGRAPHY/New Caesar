@@ -1,0 +1,14 @@
+New Caesar:
+
+We found a brand new type of encryption, can you break the secret code? (Wrap with picoCTF{})
+
+fegdeogdgecoeocgcgchcfcffccfca new_caesar.py
+
+Hints
+1
+How does the cipher work if the alphabet isn't 26 letters?
+
+2
+Even though the letters are split up, the same paradigms still apply
+
+FLAG: picoCTF{et_tu?_77866c61}
