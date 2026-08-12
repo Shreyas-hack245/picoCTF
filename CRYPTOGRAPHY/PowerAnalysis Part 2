@@ -1,0 +1,15 @@
+PowerAnalysis: Part 2:
+
+This embedded system allows you to measure the power consumption of the CPU while it is running an AES encryption algorithm. However, this time you have access to only a very limited number of measurements.
+
+Download the power-consumption traces for a sample of encryptions traces.zip
+ The flag will be of the format picoCTF{<encryption key>} where <encryption key> is 32 lowercase hex characters comprising the 16-byte encryption key being used by the program.
+
+Hints
+1
+The power consumption is correlated with the Hamming weight of the bits being processed
+
+2
+You will need to figure out how to deal with the noise
+
+FLAG: picoCTF{2f4981b159a0a78a5e222bc537f894ae}
