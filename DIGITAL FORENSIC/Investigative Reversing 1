@@ -1,0 +1,19 @@
+Investigative Reversing 1:
+
+We have recovered a binary
+ and a few images: image
+, image2
+, image3
+. See what you can make of it. There should be a flag somewhere.
+
+Hints
+1
+Try using some forensics skills on the image
+
+2
+This problem requires both forensics and reversing skills
+
+3
+A hex editor may be helpful
+
+FLAG: picoCTF{An0tha_1_86c9cfe5}
