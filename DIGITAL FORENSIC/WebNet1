@@ -1,0 +1,14 @@
+WebNet1:
+
+We found this packet capture
+ and key
+. Recover the flag.
+
+Hints
+1
+Try using a tool like Wireshark.
+
+2
+How can you decrypt the TLS stream?
+
+FLAG: picoCTF{honey.roasted.peanuts}
