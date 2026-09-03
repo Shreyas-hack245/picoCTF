@@ -1,0 +1,13 @@
+Related Messages :
+
+Oops! I have a typo in my first message so i sent it again! I used RSA twice so this is secure right? chall.py
+ output.txt
+
+Hints
+1
+How are the two messages related?
+
+2
+Franklin Reiter _______ _______ attack.
+
+FLAG: picoCTF{m3ssage_w1th_typ0}
