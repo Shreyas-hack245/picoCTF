@@ -1,0 +1,28 @@
+cryptomaze :
+
+In this challenge, you are tasked with recovering a hidden flag that has been encrypted using a combination of Linear Feedback Shift Register (LFSR) and AES encryption. The LFSR is used to derive a key for AES encryption, making it crucial to understand its workings to decrypt the message.
+
+The flag has been stored in a file and encrypted. Your goal is to derive the key used for encryption from the LFSR state and taps provided in the output, and then decrypt the flag to retrieve it.
+
+Download the encrypted flag from here
+. which contains the following information:
+
+The initial state of the LFSR
+The taps used for the LFSR
+The encrypted flag in hexadecimal format
+Hints
+1
+Use the LFSR’s initial state and taps to generate a 128-bit sequence.
+
+2
+Convert this 128-bit sequence into a 16-byte AES key by:
+
+Grouping the bits into 8-bit chunks (16 chunks in total).
+Converting each chunk from binary to a byte to form the AES key.
+3
+Decrypt the flag using AES in ECB mode.
+
+4
+Convert the encrypted flag from hex to bytes before decrypting.
+
+FLAG: picoCTF{scr8mbledt_flvg_669a598b}
