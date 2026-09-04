@@ -1,0 +1,16 @@
+B1ll_Gat35 :
+
+Can you reverse this Windows Binary
+?
+
+Hints
+1
+Microsoft provides windows virtual machines https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
+
+2
+Ollydbg may be helpful
+
+3
+Flag format: PICOCTF{XXXX}
+
+FLAG: PICOCTF{These are the access codes to the vault: 1063340}
