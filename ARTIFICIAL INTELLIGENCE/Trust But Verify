@@ -1,0 +1,13 @@
+Trust But Verify:
+
+Play through an AI ethics interactive fiction where confident AI outputs can be wrong, subtly wrong, or almost-right. Verify claims, code, and citations to learn practical habits for safe AI-assisted work. Connect with netcat:
+
+
+Hints
+1
+The game pauses frequently. Press Enter at each continue prompt.
+
+2
+The flag is printed near the end of the story.
+
+FLAG:  academy{7ru57_15_34rn3d_65d5434b}
