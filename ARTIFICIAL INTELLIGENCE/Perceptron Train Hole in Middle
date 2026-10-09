@@ -1,0 +1,20 @@
+Perceptron Train Hole in Middle
+
+Watch a perceptron learn in real time on a "hole in the middle" pattern: positive points surround one negative center point. The classic perceptron update rule still applies (only misclassified points trigger updates, with no weight decay), but this shape is not linearly separable by a single line. Reach 88.9% accuracy to reveal the flag. Visit the service in your browser:
+
+http://xebec.cylabacademy.net:35093/
+
+Hints
+1
+You get 16 updates per run, and correctly classified points do not change the model in the classic rule.
+
+2
+The learning-rate sweep is wide (0.02 through 20.0), so very high values can swing the boundary aggressively.
+
+3
+A single line cannot isolate the center point while keeping all surrounding points on the other side; 88.9% (8/9) is the best achievable target here.
+
+4
+Use the slider to sweep the range and watch how the decision boundary moves between misclassification updates.
+
+FLAG: academy{h0l3_1n_m1ddl3_unl34rn4bl3_l1n34rly_5af09722}
