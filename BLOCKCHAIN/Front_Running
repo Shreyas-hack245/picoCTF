@@ -1,0 +1,23 @@
+Front_Running
+
+A mysterious vault has been discovered on the blockchain. It's programmed to release a secret flag to anyone who can provide the correct pre-image to a specific hash.
+
+Our sensors indicate that a "Victim Bot" has found the answer and is currently trying to submit it, but they are being very stingy with their gas price. Contract: here
+ The Ethereum node is available at:
+
+Eth node address: chatelaine.cylabacademy.net:13358
+Monitor the heist status and find your attacker credentials at here.
+
+NOTE: This server can take up to 5 minutes to start up. Please be patient.
+
+  Hints
+1
+Have you looked at the pending transactions in the mempool?
+
+2
+What happens if two people submit the correct answer in the same block?
+
+3
+How do you see what's waiting to be mined?
+
+FLAG : academy{m3mp00l_p1r4t3}
