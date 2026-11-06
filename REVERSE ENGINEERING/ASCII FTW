@@ -1,0 +1,13 @@
+ASCII FTW
+
+This program has constructed the flag using hex ascii values. Identify the flag text by disassembling the program. You can download the file from here
+.
+
+Hints
+1
+The combined range of hex-ascii for English alphabets and numerical digits is from 30 to 7A.
+
+2
+Online hex-ascii converters can be helpful.
+
+FLAG: academy{ASCII_IS_EASY_AC3E0C8C}
