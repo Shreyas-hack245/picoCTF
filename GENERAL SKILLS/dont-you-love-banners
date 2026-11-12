@@ -1,0 +1,15 @@
+dont-you-love-banners
+
+Can you abuse the banner? The server has been leaking some crucial information on xebec.cylabacademy.net 34994. Use the leaked information to get to the server.
+
+To connect to the running application use nc xebec.cylabacademy.net 39541. From the above information abuse the machine and find the flag in the /root directory.
+
+ 
+Hints
+1
+Do you know about symlinks?
+
+2
+Maybe some small password cracking or guessing
+
+FLAG: academy{b4nn3r_gr4bb1n9_su((3sfu11y_d3ce8df1}
