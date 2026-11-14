@@ -1,0 +1,13 @@
+Picker II
+
+Can you figure out how this program works to get the flag? Connect to the program with netcat:
+
+$ nc chatelaine.cylabacademy.net 16180
+
+The program's source code can be downloaded here.
+
+Hints
+1
+Can you do what win does with your input to the program?
+
+FLAG: academy{f1l73r5_f41l_c0d3_r3f4c70r_m1gh7_5ucc33d_e9683452}
